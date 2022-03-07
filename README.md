@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Patrick-j-mcbride
-- 👀 I’m interested in all things computer science
-- 🌱 I’m currently learning data structures, machine learning, and Swift.
+-Hi, I’m @Patrick-j-mcbride
+-I’m interested in all things computer science
+-SDSMT Red ICPC programming team member.
